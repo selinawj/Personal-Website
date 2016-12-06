@@ -1,0 +1,72 @@
+.bg-1 {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+
+.bg-3 {
+  background-color: #ffffff;
+  color: #555555;
+}
+
+.bg-4 {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.container-fluid-content {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+body {
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+    position: relative;
+}
+
+  #profile {padding-top:50px;height:450px; }
+  #intro {padding-top:50px;height:300px; }
+  #portfolio {padding-top:50px;height:600px;}
+  #contact {padding-top:50px;height:300px;}
+
+p {
+  font-size: 16px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.margin {
+  margin-bottom: 45px;
+}
+
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+}
+
+.thumbnail img {
+    width: 80%;
+    height: 20%;
+    margin-bottom: 10px;
+}
