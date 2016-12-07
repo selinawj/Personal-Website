@@ -1,10 +1,10 @@
 .bg-1 {
-    background-color: #5db7ab;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 .bg-2 {
-    background-color: #474e5d; /* Dark Blue */
+    background-color: #720037;
     color: #ffffff;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .navbar-nav li a:hover {
-    color: #1abc9c !important;
+    color: #720037 !important;
 }
 
 body {
@@ -45,15 +45,15 @@ body {
     position: relative;
 }
 
+  #who {padding-top:50px;height:450px; }
   #profile {padding-top:50px;height:450px; }
-  #intro {padding-top:10px;height:250px; }
   #portfolio {padding-top:30px;height:500px;}
   #contact {padding-top:50px;height:400px;}
 
-p {
-  font-size: 16px;
-  margin-top: 25px;
-  margin-bottom: 20px;
+h4 {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .margin {
