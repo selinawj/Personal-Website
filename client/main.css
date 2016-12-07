@@ -23,6 +23,17 @@
     padding-bottom: 70px;
 }
 
+a:link {
+    color: #720037;
+    letter-spacing: 5px;
+    font: 15px "Montserrat", sans-serif;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: #000000;
+}
+
 .navbar {
     font: 20px "Montserrat", sans-serif;
     padding-top: 0px;
@@ -45,7 +56,7 @@ body {
     position: relative;
 }
 
-  #who {padding-top:50px;height:450px; }
+  #who {padding-top:50px;height:500px; }
   #profile {padding-top:50px;height:450px; }
   #portfolio {padding-top:30px;height:500px;}
   #contact {padding-top:50px;height:400px;}
