@@ -1,5 +1,5 @@
 .bg-1 {
-    background-color: #1abc9c;
+    background-color: #5db7ab;
     color: #ffffff;
 }
 
@@ -24,6 +24,7 @@
 }
 
 .navbar {
+    font: 20px "Montserrat", sans-serif;
     padding-top: 0px;
     padding-bottom: 0px;
     border: 0;
@@ -45,8 +46,8 @@ body {
 }
 
   #profile {padding-top:50px;height:450px; }
-  #intro {padding-top:50px;height:300px; }
-  #portfolio {padding-top:50px;height:600px;}
+  #intro {padding-top:10px;height:250px; }
+  #portfolio {padding-top:30px;height:500px;}
   #contact {padding-top:50px;height:300px;}
 
 p {
